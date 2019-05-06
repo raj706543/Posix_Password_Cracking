@@ -1,0 +1,90 @@
+#7379    CV78 $6$KB$6SsUGf4Cq7/Oooym9WWQN3VKeo2lynKV9gXVyEG4HvYy1UFRx.XAye89TLp/OTcW7cGpf9UlU0F.cK/S9CfZn1
+67600 solutions explored
+#12288   ES87 $6$KB$Lsc5GJc6UWLEyVocbQBpezWOUtiLMkAO6MZ9vJY15o7P5jBXl4w7zxwolBkw5Z4jftUo.6aLeQ6gMUBrADh2q0
+67600 solutions explored
+#20125   HT24 $6$KB$GIGRUyhlF2hmevkShnr0ARkLpTiJx4UTiYuAdkuonWARwEKbpqltj/2bEhWD8x87V3QYhImocd//y03phj9m/0
+67600 solutions explored
+#44546   RD45 $6$KB$rUk1AWWJnutCqD6id7MtupeHvck78SduFKGelRIOCQ/9gBHAac3p02iBnbDzOZiraZQZFl31aeQiiPgd.Ko1O1
+67600 solutions explored
+Time elapsed was 638166627535ns or 638.166627535s
+#7379    CV78 $6$KB$6SsUGf4Cq7/Oooym9WWQN3VKeo2lynKV9gXVyEG4HvYy1UFRx.XAye89TLp/OTcW7cGpf9UlU0F.cK/S9CfZn1
+67600 solutions explored
+#12288   ES87 $6$KB$Lsc5GJc6UWLEyVocbQBpezWOUtiLMkAO6MZ9vJY15o7P5jBXl4w7zxwolBkw5Z4jftUo.6aLeQ6gMUBrADh2q0
+67600 solutions explored
+#20125   HT24 $6$KB$GIGRUyhlF2hmevkShnr0ARkLpTiJx4UTiYuAdkuonWARwEKbpqltj/2bEhWD8x87V3QYhImocd//y03phj9m/0
+67600 solutions explored
+#44546   RD45 $6$KB$rUk1AWWJnutCqD6id7MtupeHvck78SduFKGelRIOCQ/9gBHAac3p02iBnbDzOZiraZQZFl31aeQiiPgd.Ko1O1
+67600 solutions explored
+Time elapsed was 636292392612ns or 636.292392612s
+#7379    CV78 $6$KB$6SsUGf4Cq7/Oooym9WWQN3VKeo2lynKV9gXVyEG4HvYy1UFRx.XAye89TLp/OTcW7cGpf9UlU0F.cK/S9CfZn1
+67600 solutions explored
+#12288   ES87 $6$KB$Lsc5GJc6UWLEyVocbQBpezWOUtiLMkAO6MZ9vJY15o7P5jBXl4w7zxwolBkw5Z4jftUo.6aLeQ6gMUBrADh2q0
+67600 solutions explored
+#20125   HT24 $6$KB$GIGRUyhlF2hmevkShnr0ARkLpTiJx4UTiYuAdkuonWARwEKbpqltj/2bEhWD8x87V3QYhImocd//y03phj9m/0
+67600 solutions explored
+#44546   RD45 $6$KB$rUk1AWWJnutCqD6id7MtupeHvck78SduFKGelRIOCQ/9gBHAac3p02iBnbDzOZiraZQZFl31aeQiiPgd.Ko1O1
+67600 solutions explored
+Time elapsed was 630420365347ns or 630.420365347s
+#7379    CV78 $6$KB$6SsUGf4Cq7/Oooym9WWQN3VKeo2lynKV9gXVyEG4HvYy1UFRx.XAye89TLp/OTcW7cGpf9UlU0F.cK/S9CfZn1
+67600 solutions explored
+#12288   ES87 $6$KB$Lsc5GJc6UWLEyVocbQBpezWOUtiLMkAO6MZ9vJY15o7P5jBXl4w7zxwolBkw5Z4jftUo.6aLeQ6gMUBrADh2q0
+67600 solutions explored
+#20125   HT24 $6$KB$GIGRUyhlF2hmevkShnr0ARkLpTiJx4UTiYuAdkuonWARwEKbpqltj/2bEhWD8x87V3QYhImocd//y03phj9m/0
+67600 solutions explored
+#44546   RD45 $6$KB$rUk1AWWJnutCqD6id7MtupeHvck78SduFKGelRIOCQ/9gBHAac3p02iBnbDzOZiraZQZFl31aeQiiPgd.Ko1O1
+67600 solutions explored
+Time elapsed was 636457653188ns or 636.457653188s
+#7379    CV78 $6$KB$6SsUGf4Cq7/Oooym9WWQN3VKeo2lynKV9gXVyEG4HvYy1UFRx.XAye89TLp/OTcW7cGpf9UlU0F.cK/S9CfZn1
+67600 solutions explored
+#12288   ES87 $6$KB$Lsc5GJc6UWLEyVocbQBpezWOUtiLMkAO6MZ9vJY15o7P5jBXl4w7zxwolBkw5Z4jftUo.6aLeQ6gMUBrADh2q0
+67600 solutions explored
+#20125   HT24 $6$KB$GIGRUyhlF2hmevkShnr0ARkLpTiJx4UTiYuAdkuonWARwEKbpqltj/2bEhWD8x87V3QYhImocd//y03phj9m/0
+67600 solutions explored
+#44546   RD45 $6$KB$rUk1AWWJnutCqD6id7MtupeHvck78SduFKGelRIOCQ/9gBHAac3p02iBnbDzOZiraZQZFl31aeQiiPgd.Ko1O1
+67600 solutions explored
+Time elapsed was 637251245353ns or 637.251245353s
+#7379    CV78 $6$KB$6SsUGf4Cq7/Oooym9WWQN3VKeo2lynKV9gXVyEG4HvYy1UFRx.XAye89TLp/OTcW7cGpf9UlU0F.cK/S9CfZn1
+67600 solutions explored
+#12288   ES87 $6$KB$Lsc5GJc6UWLEyVocbQBpezWOUtiLMkAO6MZ9vJY15o7P5jBXl4w7zxwolBkw5Z4jftUo.6aLeQ6gMUBrADh2q0
+67600 solutions explored
+#20125   HT24 $6$KB$GIGRUyhlF2hmevkShnr0ARkLpTiJx4UTiYuAdkuonWARwEKbpqltj/2bEhWD8x87V3QYhImocd//y03phj9m/0
+67600 solutions explored
+#44546   RD45 $6$KB$rUk1AWWJnutCqD6id7MtupeHvck78SduFKGelRIOCQ/9gBHAac3p02iBnbDzOZiraZQZFl31aeQiiPgd.Ko1O1
+67600 solutions explored
+Time elapsed was 637417614542ns or 637.417614542s
+#7379    CV78 $6$KB$6SsUGf4Cq7/Oooym9WWQN3VKeo2lynKV9gXVyEG4HvYy1UFRx.XAye89TLp/OTcW7cGpf9UlU0F.cK/S9CfZn1
+67600 solutions explored
+#12288   ES87 $6$KB$Lsc5GJc6UWLEyVocbQBpezWOUtiLMkAO6MZ9vJY15o7P5jBXl4w7zxwolBkw5Z4jftUo.6aLeQ6gMUBrADh2q0
+67600 solutions explored
+#20125   HT24 $6$KB$GIGRUyhlF2hmevkShnr0ARkLpTiJx4UTiYuAdkuonWARwEKbpqltj/2bEhWD8x87V3QYhImocd//y03phj9m/0
+67600 solutions explored
+#44546   RD45 $6$KB$rUk1AWWJnutCqD6id7MtupeHvck78SduFKGelRIOCQ/9gBHAac3p02iBnbDzOZiraZQZFl31aeQiiPgd.Ko1O1
+67600 solutions explored
+Time elapsed was 626074407305ns or 626.074407305s
+#7379    CV78 $6$KB$6SsUGf4Cq7/Oooym9WWQN3VKeo2lynKV9gXVyEG4HvYy1UFRx.XAye89TLp/OTcW7cGpf9UlU0F.cK/S9CfZn1
+67600 solutions explored
+#12288   ES87 $6$KB$Lsc5GJc6UWLEyVocbQBpezWOUtiLMkAO6MZ9vJY15o7P5jBXl4w7zxwolBkw5Z4jftUo.6aLeQ6gMUBrADh2q0
+67600 solutions explored
+#20125   HT24 $6$KB$GIGRUyhlF2hmevkShnr0ARkLpTiJx4UTiYuAdkuonWARwEKbpqltj/2bEhWD8x87V3QYhImocd//y03phj9m/0
+67600 solutions explored
+#44546   RD45 $6$KB$rUk1AWWJnutCqD6id7MtupeHvck78SduFKGelRIOCQ/9gBHAac3p02iBnbDzOZiraZQZFl31aeQiiPgd.Ko1O1
+67600 solutions explored
+Time elapsed was 630203668284ns or 630.203668284s
+#7379    CV78 $6$KB$6SsUGf4Cq7/Oooym9WWQN3VKeo2lynKV9gXVyEG4HvYy1UFRx.XAye89TLp/OTcW7cGpf9UlU0F.cK/S9CfZn1
+67600 solutions explored
+#12288   ES87 $6$KB$Lsc5GJc6UWLEyVocbQBpezWOUtiLMkAO6MZ9vJY15o7P5jBXl4w7zxwolBkw5Z4jftUo.6aLeQ6gMUBrADh2q0
+67600 solutions explored
+#20125   HT24 $6$KB$GIGRUyhlF2hmevkShnr0ARkLpTiJx4UTiYuAdkuonWARwEKbpqltj/2bEhWD8x87V3QYhImocd//y03phj9m/0
+67600 solutions explored
+#44546   RD45 $6$KB$rUk1AWWJnutCqD6id7MtupeHvck78SduFKGelRIOCQ/9gBHAac3p02iBnbDzOZiraZQZFl31aeQiiPgd.Ko1O1
+67600 solutions explored
+Time elapsed was 636594627630ns or 636.594627630s
+#7379    CV78 $6$KB$6SsUGf4Cq7/Oooym9WWQN3VKeo2lynKV9gXVyEG4HvYy1UFRx.XAye89TLp/OTcW7cGpf9UlU0F.cK/S9CfZn1
+67600 solutions explored
+#12288   ES87 $6$KB$Lsc5GJc6UWLEyVocbQBpezWOUtiLMkAO6MZ9vJY15o7P5jBXl4w7zxwolBkw5Z4jftUo.6aLeQ6gMUBrADh2q0
+67600 solutions explored
+#20125   HT24 $6$KB$GIGRUyhlF2hmevkShnr0ARkLpTiJx4UTiYuAdkuonWARwEKbpqltj/2bEhWD8x87V3QYhImocd//y03phj9m/0
+67600 solutions explored
+#44546   RD45 $6$KB$rUk1AWWJnutCqD6id7MtupeHvck78SduFKGelRIOCQ/9gBHAac3p02iBnbDzOZiraZQZFl31aeQiiPgd.Ko1O1
+67600 solutions explored
+Time elapsed was 642032129485ns or 642.032129485s
